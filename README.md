@@ -1,0 +1,2 @@
+# derinh
+toplu kazanç
